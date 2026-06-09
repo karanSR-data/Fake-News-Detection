@@ -18,7 +18,7 @@ The application allows users to enter any news headline or article and instantly
 * Interactive Streamlit web interface
 * Real-time prediction on custom news articles
 * Saved model and vectorizer for deployment
-
+  
 ## Project Structure
 
 ```text
